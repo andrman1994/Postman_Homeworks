@@ -1,0 +1,26 @@
+Ветки репозитория Postman_Homeworks
+1. main:
+	Содержимое:
+		Описание веток репозитория Postman_Homeworks
+		1 файл:
+			Ветки репозитория Postman_Homeworks.txt - файл с описанием репозитория
+
+2. PostmanHW1_Requests:
+	Содержимое:
+		Первая домашняя работа по Postman (Отправка запросов)
+		1 файл:
+			Postman. HW_1 (Requests).postman_collection.json - файл с коллекцией запросов
+
+3. PostmanHW2_Tests:
+	Содержимое:
+		Вторая домашняя работа по Postman (Написание тестов в запросах)
+		2 файла:
+			Postman. HW_2 (Tests) Environment.postman_environment.json - файл с окружением для запросов
+			Postman. HW_2 (Tests).postman_collection.json - файл с коллекцией запросов
+
+4. PostmanHW3_Tasks:
+	Содержимое:
+		Третья домашняя работа по Postman (Выполнение сложных тестов и заданий)
+		2 файла:
+			Postman. HW_3 (Tasks) Environment.postman_environment.json - файл с окружением для запросов
+			Postman. HW_3 (Tasks).postman_collection.json - файл с коллекцией запросов
